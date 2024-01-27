@@ -2,7 +2,7 @@
 
 ### A collection of my personal defensive security work.
 
-Description: A range of Python tooling including SEIM for defensive security work. 
+Description: A range of Python tooling including SIEM for defensive security work. 
 
 ### Index:
 ## Chapter 1: Windows Event File Parser
